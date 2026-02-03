@@ -1,0 +1,8 @@
+pandas
+requests
+beautifulsoup4
+openpyxl
+xlrd
+chardet
+duckdb
+rapidfuzz
